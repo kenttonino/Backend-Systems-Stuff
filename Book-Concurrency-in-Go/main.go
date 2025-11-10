@@ -7,6 +7,7 @@ import (
 
 func main() {
 	libs.NewLine(1)
-	examples.Ex0001RaceCondition()
+	// examples.Ex0001RaceCondition()
+	examples.Ex0002RaceCondition()
 	libs.NewLine(2)
 }
