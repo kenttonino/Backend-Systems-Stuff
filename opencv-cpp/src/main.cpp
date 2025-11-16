@@ -1,6 +1,5 @@
 #include "./examples/examples.hpp"
 #include "./libs/libs.hpp"
-#include <iostream>
 
 int main(void) {
   new_line(2);

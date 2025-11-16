@@ -1,5 +1,5 @@
 CXX = g++
-CXXFLAGS = -I/usr/local/include/opencv4/ -std=c++11
+CXXFLAGS = -I/usr/local/include/opencv4/ -std=c++17
 LDFLAGS = -L/usr/local/lib
 OPENCV_LIBS = -lopencv_core -lopencv_imgcodecs -lopencv_highgui -lopencv_imgproc
 
