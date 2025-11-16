@@ -1,6 +1,6 @@
 ## Description
 
-> - Sample program in C++.
+> - Sample OpenCV computer programs in C++.
 
 <br />
 <br />
