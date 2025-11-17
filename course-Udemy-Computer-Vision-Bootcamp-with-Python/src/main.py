@@ -1,1 +1,3 @@
-print("Hello from Computer Vision Universe")
+import cv2
+
+print(cv2.__version__)
