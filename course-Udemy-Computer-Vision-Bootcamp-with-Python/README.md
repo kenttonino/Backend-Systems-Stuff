@@ -22,12 +22,19 @@ https://www.udemy.com/course/computer-vision-bootcamptm-python-and-opencv/learn/
 # This will create a virtual environment.
 make venv
 
-# This will start the main file.
-make start
+# Activate virtual environment.
+make activate-venv
 ```
 
 > - After running the virtual environment, install the dependencies.
 
 ```sh
-pip install -r requirements.txt
+# Install the dependencies listed in requirements file.
+make install
+```
+
+> - Start the program define in `main.py` file.
+
+```sh
+make start
 ```
